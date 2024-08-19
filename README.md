@@ -1,3 +1,5 @@
+![My Image](AirportNetworkImage.jpg)
+
 # Introduction
 
 In the contemporary aviation landscape, modern airports necessitate sophisticated network infrastructure to efficiently manage operations, provide essential services to various departments, and elevate the overall passenger experience. This comprehensive project is centered on designing a robust network tailored to the distinct needs of four pivotal airport departments:
