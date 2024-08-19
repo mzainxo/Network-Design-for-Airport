@@ -1,4 +1,4 @@
-![My Image](AirportNetworkImage.jpg)
+<img src="AirportNetworkImage.jpg" alt="Project Screenshot" width="auto"/>
 
 # Introduction
 
